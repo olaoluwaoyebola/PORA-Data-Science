@@ -14,3 +14,9 @@ A dedicated space to document my journey learning and applying Data Science conc
 2. Track Progress: Document the evolution of my skills, from basic data manipulation to advanced machine learning model deployment.
 3. Build a Portfolio: Showcase completed projects, code quality, problem-solving abilities, and documentation skills to potential employers or collaborators.
 4. Maintain Resources: Keep a curated list of useful resources, datasets, and learning paths.
+
+### NumPy
+Learned how to use the numpy library in python. Created arrays and manipulated them; checking the shape, size, dimension, flattening an array, and also adding two arrays together.
+
+### Pandas
+Looked into the pandas library, learning how it works. Created and manipulated a pandas series.
