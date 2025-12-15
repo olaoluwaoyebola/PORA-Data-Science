@@ -19,7 +19,7 @@ venv/
 
 # --- IDE Settings ---
 # Ignores settings files for VS Code or PyCharm
-.vscode/
+.vscode/*
 .idea/
 
 # --- Large Data ---
