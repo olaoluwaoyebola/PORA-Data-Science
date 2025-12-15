@@ -16,7 +16,16 @@ A dedicated space to document my journey learning and applying Data Science conc
 4. Maintain Resources: Keep a curated list of useful resources, datasets, and learning paths.
 
 ### NumPy
+
 Learned how to use the numpy library in python. Created arrays and manipulated them; checking the shape, size, dimension, flattening an array, and also adding two arrays together.
 
 ### Pandas
+
 Looked into the pandas library, learning how it works. Created and manipulated a pandas series.
+
+Learned how to integrate sql into python using SQLite. We used the Chinook\_db to practice by exploring the data, performing operations like joins, sort, and also visualize the data.
+
+### Matplotlib
+
+Started out on how this python library works and practiced some visualizations.
+
