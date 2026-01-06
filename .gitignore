@@ -32,3 +32,7 @@ datasets/*.xlsx
 # --- Docs ---
 # Ignore pdf files
 Docs/*.pdf 
+
+# --- DBs ---
+# Ignore database files
+Chinook_Sqlite.sqlite 
