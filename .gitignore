@@ -36,3 +36,7 @@ Docs/*.pdf
 # --- DBs ---
 # Ignore database files
 Chinook_Sqlite.sqlite 
+
+# --- HTML ---
+# Ignore uneccessary html files
+sales_dashboard.html 
