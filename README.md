@@ -32,3 +32,6 @@ Started out on how this python library works and practiced some visualizations.
 ### Plotly
 
 Learned how to use plotly to create interactive visuals and dashboards. I also saw the difference between plotly and other visualisation libraries like matplotlib and seaborn, in that plotly is dynamic. It is interactive by default, supports zooming, hover toolips, panning, and export. It can also be integrated into web apps, and well suited for analytical dashboards. 
+
+### Data Cleaning
+Learned different methods of data cleaning and its usefulness.
