@@ -35,3 +35,21 @@ Learned how to use plotly to create interactive visuals and dashboards. I also s
 
 ### Data Cleaning
 Learned different methods of data cleaning and its usefulness.
+
+
+### Machine Learning
+The first two weeks for this section, I started out with the basics of supervised learning, including Regression concepts, Classification fundamentals, Train–test splitting, Overfitting vs underfitting, Performance metrics (accuracy, RMSE, precision, recall). I to work on prjects to practice and solidify what I've learned so far.
+
+Then I progressed into unsupervised learning, where the goal is to uncover hidden patterns in unlabeled data. Topics explored include:
+
+Clustering concepts and use cases
+
+K-Means clustering
+
+Choosing the optimal number of clusters (Elbow Method, WCSS)
+
+Feature scaling for clustering
+
+Interpreting and visualizing clusters
+
+Practical applications of unsupervised learning in real-world datasets
